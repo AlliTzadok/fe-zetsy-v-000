@@ -37,3 +37,7 @@ div.wrapper img{
 div#logos > img {
 	border: #CCCCCC;
 }
+
+#copywrite {
+	text-align: right;
+}
