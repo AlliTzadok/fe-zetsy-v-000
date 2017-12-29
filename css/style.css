@@ -25,7 +25,6 @@ h1 {
 	font-size: 80px;
 	font-weight: normal;
 	font-family: "Baskerville", serif;
-	color: #98ADA6;
 	border-bottom: 1px solid #ccc;
 
 }
@@ -42,6 +41,11 @@ p{
 }
 
 /*/////STYLES/////*/
+header a {
+	text-decoration: none;
+	color: #98ADA6;
+
+}
 header a:hover {
 	text-decoration: none;
 	color: 6F7F7A;
