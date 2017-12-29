@@ -55,6 +55,10 @@ header a:hover {
 	color: #1783bb
 }
 
+#featured a:hover {
+	text-decoration: underline;
+}
+
 div#logos img {
 	border: 5px solid #CCCCCC;
 	margin: 10px 0px;
@@ -66,5 +70,3 @@ footer {
 	font-size: 13px;
 	text-align: right;
 }
-
-
