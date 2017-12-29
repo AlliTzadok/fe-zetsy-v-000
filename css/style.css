@@ -35,6 +35,12 @@ h2 {
 	font-size: 32px;
 }
 
+p{
+	color: #555;
+	font-size: 16px;
+	margin: 0 0 20px 0;
+}
+
 div.wrapper img{
 	border: 5px solid #98ADA6;
 }
@@ -44,11 +50,7 @@ div#logos img {
 	margin: 10px 0px;
 }
 
-p{
-	color: #555;
-	font-size: 16px;
-	margin: 0 0 20px 0;
-}
+
 
 footer {
 	font-size: 13px;
