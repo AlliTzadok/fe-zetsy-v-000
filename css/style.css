@@ -41,8 +41,18 @@ p{
 	margin: 0 0 20px 0;
 }
 
-div.wrapper img{
+/*/////STYLES/////*/
+header a:hover {
+	text-decoration: none;
+	color: 6F7F7A;
+}
+
+#featured img{
 	border: 5px solid #98ADA6;
+}
+
+#featured a {
+	color: #1783bb
 }
 
 div#logos img {
@@ -57,7 +67,4 @@ footer {
 	text-align: right;
 }
 
-a {
-	text-decoration: none;
-	color: #1783bb;
-}
+
