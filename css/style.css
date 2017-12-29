@@ -28,6 +28,7 @@ h1 {
 
 h2 {
 	color: #6F7F7A;
+	font-size: 32px;
 }
 
 div.wrapper img{
@@ -41,7 +42,7 @@ div#logos img {
 
 p{
 	color: #555;
-	font-size: 1em;
+	font-size: 16px;
 	margin: 0 0 20px 0;
 }
 
