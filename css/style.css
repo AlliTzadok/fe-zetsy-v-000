@@ -42,3 +42,8 @@ div#logos img {
 	text-align: right;
 	font-size: 13px;
 }
+
+a {
+	text-decoration: none;
+	color: #1783bb;
+}
