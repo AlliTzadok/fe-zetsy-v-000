@@ -34,6 +34,6 @@ div.wrapper img{
 	border: 5px solid #98ADA6;
 }
 
-#logos {
-	color: #CCCCCC;
+#logos a img {
+	border: #CCCCCC;
 }
