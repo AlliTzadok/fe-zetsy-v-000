@@ -26,6 +26,10 @@ h1 {
 	margin: 0 auto;
 }
 
+h2 {
+	color: #6F7F7A;
+}
+
 div.wrapper img{
 	border: 5px solid #98ADA6;
 }
